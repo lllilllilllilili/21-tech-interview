@@ -48,3 +48,7 @@ public static String getHtml(String url) throws IOException {
 	}
 }
 ```
+
+| 참고
+
+- [Try-With-Resources를 이용한 자원해제 처리](https://ryan-han.com/post/java/try_with_resources/)
